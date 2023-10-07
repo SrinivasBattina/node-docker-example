@@ -1,0 +1,13 @@
+{
+  "App": {
+    "cluster": {
+      "enabled": false
+    },
+    "database": {
+      "url": "mongodb://172.17.0.3",
+      "port": 27017,
+      "dbName": "development"
+    },
+    "port": 3000
+  }
+}
